@@ -1,0 +1,9 @@
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Stock_Tracker_Live_II\Stock_Tracker_Live_II\bin\Debug\Stock_Tracker_Live_II.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Stock_Tracker_Live_II\Stock_Tracker_Live_II\bin\Debug\Stock_Tracker_Live_II.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Stock_Tracker_Live_II\Stock_Tracker_Live_II\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Stock_Tracker_Live_II\Stock_Tracker_Live_II\obj\x86\Debug\Stock_Tracker_Live_II.Form1.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Stock_Tracker_Live_II\Stock_Tracker_Live_II\obj\x86\Debug\Stock_Tracker_Live_II.Properties.Resources.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Stock_Tracker_Live_II\Stock_Tracker_Live_II\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Stock_Tracker_Live_II\Stock_Tracker_Live_II\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Stock_Tracker_Live_II\Stock_Tracker_Live_II\obj\x86\Debug\Stock_Tracker_Live_II.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Stock_Tracker_Live_II\Stock_Tracker_Live_II\obj\x86\Debug\Stock_Tracker_Live_II.pdb
